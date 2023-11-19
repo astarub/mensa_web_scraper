@@ -1,0 +1,522 @@
+{
+    "Mo, 20.03.": {
+        "Aktion": [
+            {
+                "title": "Lahmacun mit knackigem Salat und Tzatziki dazu Country Cubes",
+                "price": null,
+                "allergies": "(VG,a,a1,f,1,3)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Kartoffel-Champi-Wok mit Zwiebel und Aioli",
+                "price": null,
+                "allergies": "(VG,f,j)"
+            },
+            {
+                "title": "Knusprige Nuggets mit Chili-Dip",
+                "price": null,
+                "allergies": "(VG,a,a1,a4,f,k,3,9,10)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "\"Vital\" Gemüse",
+                "price": null,
+                "allergies": "(VG,i)"
+            },
+            {
+                "title": "Mandelreis",
+                "price": null,
+                "allergies": "(VG,h,h1)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Himbeerpudding",
+                "price": null,
+                "allergies": "(VG,f,h,h1)"
+            },
+            {
+                "title": "Apple Cake",
+                "price": null,
+                "allergies": "(VG,a,a1,h,h1)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Di, 21.03.": {
+        "Aktion": [
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,a,a1,f)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,f,1)"
+            },
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,a,a1,f,1)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,f)"
+            },
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,1)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,f)"
+            },
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,a,a1,f,h,h1,h3,3)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "Geschlossen",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Mi, 22.03.": {
+        "Aktion": [
+            {
+                "title": "Avocado-Reis-Bowl mit Pak Choi",
+                "price": null,
+                "allergies": "(VG,k)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Kürbis- Spinat Lasagne",
+                "price": null,
+                "allergies": "(VG,f,1)"
+            },
+            {
+                "title": "Indische Blumenkohl Pfanne",
+                "price": null,
+                "allergies": "(VG,a,a1,a3,f,1,3)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Kohlrabigemüse",
+                "price": null,
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Risoleekartoffeln",
+                "price": null,
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Vanillepudding ohne Schnickschnack",
+                "price": null,
+                "allergies": "(VG,a,a4)"
+            },
+            {
+                "title": "Omas Aprikosen-Streuselkuchen",
+                "price": null,
+                "allergies": "(VG,a,a1,f,h,h1,h2,h7,1,3)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Do, 23.03.": {
+        "Aktion": [
+            {
+                "title": "Exotischer Chiasamen Burger Country Cubes",
+                "price": null,
+                "allergies": "(VG,a,a1,a2,a3,f,j,1)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Szegediner Tofugulasch - ungarisches Gericht -",
+                "price": null,
+                "allergies": "(VG,f)"
+            },
+            {
+                "title": "Buffalo-Blumenkohl",
+                "price": null,
+                "allergies": "(VG,a,a1,j,2,4,9,10)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Erbsen-Minz-Curry",
+                "price": null,
+                "allergies": "(VG,a,a5,f,2)"
+            },
+            {
+                "title": "Bunte Spiralnudeln",
+                "price": null,
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Mango-Kokos-Bowl",
+                "price": null,
+                "allergies": "(VG,a,a4,h,h1)"
+            },
+            {
+                "title": "Cheesecake",
+                "price": null,
+                "allergies": "(VG,a,a1,f,1,3)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Fr, 24.03.": {
+        "Aktion": [
+            {
+                "title": "persische Blätterteigtaschen mit Pommes frites und Tomatensalat",
+                "price": null,
+                "allergies": "(VG,a,a1,k)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Curry Lasagne Asia Style",
+                "price": null,
+                "allergies": "(VG,a,a1,a3,f,1)"
+            },
+            {
+                "title": "Pilzgulasch \"Bourguignon\"",
+                "price": null,
+                "allergies": "(VG,a,a1,f)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Französisches Ofengemüse",
+                "price": null,
+                "allergies": "(VG,l,3)"
+            },
+            {
+                "title": "Würzige Salbeignocchi",
+                "price": null,
+                "allergies": "(VG,a,a1,1)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Panna-Cotta mit Mangospiegel",
+                "price": null,
+                "allergies": "(VG,f)"
+            },
+            {
+                "title": "Lemoncake",
+                "price": null,
+                "allergies": "(VG,a,a1,f)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Mo, 27.03.": {
+        "Aktion": [
+            {
+                "title": "Gefüllte Dönertasche mit Falafel und Salat dazu Orientalischer CousCous mit Datteln, Mandeln und Minze  Kartoffelwedges",
+                "price": null,
+                "allergies": "(VG,a,a1,f,h,h1,i,j,3)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Champignoncreme-Schnetzel-Topf",
+                "price": null,
+                "allergies": "(VG,a,a1,a3,f,i)"
+            },
+            {
+                "title": "Kürbisbratling auf pikantem Sauerkraut Champignoncreme-Schnetzel-Topf",
+                "price": null,
+                "allergies": "(VG,a,a1,a3,f,i,9)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Beschwipster cremiger Kohl",
+                "price": null,
+                "allergies": "(A,VG,f,l,5)"
+            },
+            {
+                "title": "Basmatireis",
+                "price": null,
+                "allergies": "(VG)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "exotischer Obstsalat",
+                "price": null,
+                "allergies": "(VG,3)"
+            },
+            {
+                "title": "Mandel-Rosinenkuchen",
+                "price": null,
+                "allergies": "(VG,a,a1,f,h,h1)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Di, 28.03.": {
+        "Aktion": [
+            {
+                "title": "gefüllter Apfelpfannkuchen mit Vanillesauce und Rosinen",
+                "price": null,
+                "allergies": "(V,a,a1,a4,f,g,3)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Fruchtiges Schwarzwurzel-Curry",
+                "price": null,
+                "allergies": "(VG,f,j,3)"
+            },
+            {
+                "title": "Kräuter-Pilz Pfanne",
+                "price": null,
+                "allergies": "(VG)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Blumenkohl-Tikka Masala",
+                "price": null,
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Ajvar Reis",
+                "price": null,
+                "allergies": "(VG)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Panna-Cotta mit Pistazien und  Agavenkaramell",
+                "price": null,
+                "allergies": "(VG,f,h,h7)"
+            },
+            {
+                "title": "Saftige Rüblitorte",
+                "price": null,
+                "allergies": "(VG,a,a1,f,h,h1)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Mi, 29.03.": {
+        "Aktion": [
+            {
+                "title": "Afrikanisches Stew Vollkorn Kräuter Reis",
+                "price": null,
+                "allergies": "(VG,e,2)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Knusprige Gemüsepuffer mit Apfelkompott und knackigen Salat",
+                "price": null,
+                "allergies": "(VG,a,a1,l,2,3)"
+            },
+            {
+                "title": "Asiatisch marinierter Grünkohl  Gebratene Harissa Kartoffeln",
+                "price": null,
+                "allergies": "(VG,1,2)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Risoni mediterrano",
+                "price": null,
+                "allergies": "(VG,a,a1,3,6)"
+            },
+            {
+                "title": "Indisch gewürzte Möhren",
+                "price": null,
+                "allergies": "(VG,e,j,1)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Yofu & Berry",
+                "price": null,
+                "allergies": "(VG,f,k,3)"
+            },
+            {
+                "title": "Kirsch-Nuss-Bananenschnitte",
+                "price": null,
+                "allergies": "(VG,a,a5,f,h,h1)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Do, 30.03.": {
+        "Aktion": [
+            {
+                "title": "Grünkohl-Hanf Burger Country Cubes",
+                "price": null,
+                "allergies": "(A,VG,a,a1,a3,f,j,l,1,5)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Sächsisches Feuersoja",
+                "price": null,
+                "allergies": "(VG,f,2,9)"
+            },
+            {
+                "title": "Gerösteter Chicorée mit Rote-Bete-Hummus",
+                "price": null,
+                "allergies": "(VG,k)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Mandel-Brokkoli",
+                "price": null,
+                "allergies": "(VG,h,h1)"
+            },
+            {
+                "title": "Rosmarin-Drillinge",
+                "price": null,
+                "allergies": "(VG)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Vanillepudding ohne Schnickschnack",
+                "price": null,
+                "allergies": "(VG,a,a4)"
+            },
+            {
+                "title": "Gepuderter Blueberry Cake",
+                "price": null,
+                "allergies": "(VG,a,a5,f,3)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    },
+    "Fr, 31.03.": {
+        "Aktion": [
+            {
+                "title": "Fruchtige Currywurst  Pommes frites Roter Cole Slaw",
+                "price": null,
+                "allergies": "(VG,f,i,j,1,2,3,9,12)"
+            }
+        ],
+        "Menükomponente": [
+            {
+                "title": "Buntes Tricolore-Lauch-Curry",
+                "price": null,
+                "allergies": "(VG,h,h4)"
+            },
+            {
+                "title": "Helles Ragout mit Erbsen und Spargel",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i)"
+            }
+        ],
+        "Beilagen": [
+            {
+                "title": "Rosenkohl-Pastinaken Pfanne",
+                "price": null,
+                "allergies": "(VG,1)"
+            },
+            {
+                "title": "Vollkorn Spiralen mit Petersilien-Cashewpesto",
+                "price": null,
+                "allergies": "(VG,a,a1,h,h4)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Himbeer-Kuchen",
+                "price": null,
+                "allergies": "(VG,a,a1,f)"
+            },
+            {
+                "title": "Schokopudding ohne Schnickschnack",
+                "price": null,
+                "allergies": "(VG,f,h,h1)"
+            }
+        ],
+        "Tagessuppe": [
+            {
+                "title": "quick & easy - Tagessuppe",
+                "price": null,
+                "allergies": "(VG,a,a3,f,i,l,2,3,5)"
+            }
+        ]
+    }
+}

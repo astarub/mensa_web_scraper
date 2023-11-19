@@ -1,0 +1,337 @@
+{
+    "Mo, 20.03.": [
+        {
+            "title": "Gemüse in Süß- Sauer- Sauce mit Reis",
+            "price": "4,30 € | 5,30 €",
+            "allergies": "VG,1,2,9"
+        },
+        {
+            "title": "Marinierte Oliven Thunfisch Bunter Salat mit Dressing nach Wahl Topping:",
+            "price": "6,10 € | 7,10 €",
+            "allergies": "F,a,a1,a3,c,d,g,i,j,l,1,2,3,5,6"
+        },
+        {
+            "title": "Pasta \"Bolognese\" mit Rinderhacksauce",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "R,a,a1,c,g,i,2"
+        },
+        {
+            "title": "Pasta mit Zitronen-Ingwer-Sauce",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "V,a,a1,c,g,2"
+        },
+        {
+            "title": "Pizza \"Thunfisch\"",
+            "price": "3,90 € | 4,90 €",
+            "allergies": "F,a,a1,d,g,"
+        },
+        {
+            "title": "Pizza \"Funghi Vegan\" mit fr. Champignons",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "VG,a,a1,1"
+        },
+        {
+            "title": "Pizza \"Mexican\" mit Mais, Kidney Bohnen und Peperonis",
+            "price": "3,90 € | 4,90 €",
+            "allergies": "V,a,a1,g,"
+        },
+        {
+            "title": "Q-Mix-Salat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,a,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Chinakohlsalat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,"
+        },
+        {
+            "title": "Bohnensalat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,f,"
+        },
+        {
+            "title": "Karamell-Sahnepudding",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,g,1"
+        },
+        {
+            "title": "Obstsalat",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "VG,3"
+        },
+        {
+            "title": "Vanillepudding mit roter Grütze",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,a,a1,g,1"
+        }
+    ],
+    "Di, 21.03.": [
+        {
+            "title": "Käsespätzle mit Röstzwiebeln",
+            "price": "4,50 € | 5,50 €",
+            "allergies": "V,a,a1,c,g,"
+        },
+        {
+            "title": "Hähnchenbrust mit Ajvar, Kartoffelecken, Bauernsalat",
+            "price": "5,90 € | 6,90 €",
+            "allergies": "G,a,a1,g,"
+        },
+        {
+            "title": "Marinierte Oliven Thunfisch Bunter Salat mit Dressing nach Wahl Topping:",
+            "price": "6,10 € | 7,10 €",
+            "allergies": "F,a,a1,a3,c,d,g,i,j,l,1,2,3,5,6"
+        },
+        {
+            "title": "Pasta mit Tomaten-Mascarponesauce und Erbsen",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "V,a,a1,c,g,2"
+        },
+        {
+            "title": "Pizza \"Salami\"",
+            "price": "3,90 € | 4,90 €",
+            "allergies": "S,a,a1,g,2,3"
+        },
+        {
+            "title": "Pizza \"Funghi Vegan\" mit fr. Champignons",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "VG,a,a1,1"
+        },
+        {
+            "title": "Rucola mit Kirschtomaten und Parmesan",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,a,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Chinakohlsalat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,"
+        },
+        {
+            "title": "Cole-Slaw-Salat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,c,g,j,"
+        },
+        {
+            "title": "Mousse \"Erdnuss\"",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "c,e,g,h,h7,"
+        },
+        {
+            "title": "Vanillepudding mit roter Grütze",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,a,a1,g,1"
+        },
+        {
+            "title": "Karamell-Sahnepudding",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,g,1"
+        }
+    ],
+    "Mi, 22.03.": [
+        {
+            "title": "Chili-sin-carne \"Vegan\" mit Reis",
+            "price": "4,30 € | 5,30 €",
+            "allergies": "VG,a,a3,f,"
+        },
+        {
+            "title": "Hähnchenschnitzel mit Champignon-Pfeffer-Sauce dazu Risoleekartoffeln",
+            "price": "5,90 € | 6,90 €",
+            "allergies": "G,a,a1,a3,f,g,i,"
+        },
+        {
+            "title": "Frühlingsrolle mit Asia-Bratnudeln",
+            "price": "4,30 € | 5,30 €",
+            "allergies": "VG,a,a1,f,i,2"
+        },
+        {
+            "title": "Bunter Salat mit Dressing nach Wahl Topping:",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "V,a,a1,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Pasta in Sahnesauce mit Schinken und Erbsen",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "S,a,a1,c,g,2,3"
+        },
+        {
+            "title": "Pasta mit Hirtenkäse in Tomatensauce",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "V,a,a1,c,g,2"
+        },
+        {
+            "title": "Pizza \"Golosa\" mit fr. Champignons und Schinken",
+            "price": "3,90 € | 4,90 €",
+            "allergies": "S,a,a1,g,2,3,8"
+        },
+        {
+            "title": "Pizza \"Funghi Vegan\" mit fr. Champignons",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "VG,a,a1,1"
+        },
+        {
+            "title": "Pizza \"Margherita\"",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "V,a,a1,g,"
+        },
+        {
+            "title": "Babyspinat mit Hirtenkäse und Walnuss",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,a,a3,c,g,h,h3,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Cole-Slaw-Salat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,c,g,j,"
+        },
+        {
+            "title": "Rote Bete Salat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,"
+        },
+        {
+            "title": "Schokoladenpudding mit Vanillesauce",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,a,a1,g,1"
+        },
+        {
+            "title": "Vanille Quark mit Beeren und Butterkeksen",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,a,a1,g,1"
+        }
+    ],
+    "Do, 23.03.": [
+        {
+            "title": "Kartoffel-Gemüse-Auflauf",
+            "price": "4,50 € | 5,50 €",
+            "allergies": "V,c,g,2"
+        },
+        {
+            "title": "Thai-Red-Chicken mit Reis",
+            "price": "4,50 € | 5,50 €",
+            "allergies": "G,a,a1,f,g,1,2"
+        },
+        {
+            "title": "Bunter Salat mit Dressing nach Wahl Topping:",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "V,a,a1,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Pasta in Weißweinsauce mit Rind und Gemüse",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "A,R,a,a1,c,g,l,2"
+        },
+        {
+            "title": "Pasta Pomodori und Lauchzwiebeln",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "V,a,a1,c,g,2"
+        },
+        {
+            "title": "Pizza \"Alberto\" mit Thunfisch und Artischocken",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "F,a,a1,d,g,"
+        },
+        {
+            "title": "Pizza \"Funghi Vegan\" mit fr. Champignons",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "VG,a,a1,1"
+        },
+        {
+            "title": "Pizza \"Funghi\" mit fr. Champignons",
+            "price": "4,00 € | 5,00 €",
+            "allergies": "V,a,a1,g,"
+        },
+        {
+            "title": "Feldsalat mit Sonnenblumen- und Kürbiskernen",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,a,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Rote Bete Salat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,"
+        },
+        {
+            "title": "Bohnensalat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,f,"
+        },
+        {
+            "title": "Vanillepudding mit roter Grütze",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,a,a1,g,1"
+        },
+        {
+            "title": "Stracciatella-Creme",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "c,f,g,"
+        }
+    ],
+    "Fr, 24.03.": [
+        {
+            "title": "Malaiisches-Gemüse-Curry dazu Reis",
+            "price": "4,30 € | 5,30 €",
+            "allergies": "VG,1"
+        },
+        {
+            "title": "Lachssteak mit Rahmspinat und  Butterkartoffeln",
+            "price": "8,50 € | 9,50 €",
+            "allergies": "F,a,a1,d,g,"
+        },
+        {
+            "title": "Bunter Salat mit Dressing nach Wahl Topping:",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "V,a,a1,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Pasta alla Puttanesca \n (Pikante Tomatensauce mit Sardellen / Oliven/ Kapern)",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "A,F,a,a1,c,d,g,l,2,3,5"
+        },
+        {
+            "title": "Pasta mit Käse-Lauch-Sauce",
+            "price": "4,10 € | 5,10 €",
+            "allergies": "V,a,a1,c,g,1,2"
+        },
+        {
+            "title": "Pizza \"Salvatore\" mit Salami, Sardellen und Peperoni",
+            "price": "4,00 € | 5,00 €",
+            "allergies": "F,S,a,a1,d,g,2,3"
+        },
+        {
+            "title": "Pizza \"Schinken\"",
+            "price": "3,90 € | 4,90 €",
+            "allergies": "S,a,a1,g,2,3,8"
+        },
+        {
+            "title": "Pizza \"Funghi Vegan\" mit fr. Champignons",
+            "price": "3,70 € | 4,70 €",
+            "allergies": "VG,a,a1,1"
+        },
+        {
+            "title": "Q-Mix-Salat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,a,a3,c,g,i,j,l,1,2,3,5"
+        },
+        {
+            "title": "Bohnensalat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "VG,f,"
+        },
+        {
+            "title": "Farmersalat",
+            "price": "1,20 € | 1,40 €",
+            "allergies": "V,c,g,i,j,"
+        },
+        {
+            "title": "Milchreis mit Zimt",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "V,g,"
+        },
+        {
+            "title": "Moccacinocreme",
+            "price": "1,40 € | 1,60 €",
+            "allergies": "c,g,12,"
+        }
+    ]
+}

@@ -1,0 +1,1275 @@
+{
+    "Mo, 20.03.": {
+        "Aktion": [
+            {
+                "title": "Schweineroulade Jäger Art mit Bratensauce und kartoffelpüree",
+                "price": "4,00 €  / 5,00 €",
+                "allergies": "(S,a,a1,a3,f,g,i)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Gnocchi mit Spargel und Kirschtomaten in Kerbelsauce",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(V,c,f,g)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Sellerie-Knusperschnitzel mit Bärlauchsauce",
+                "price": "1,80 €  / 2,80 €",
+                "allergies": "(VG,a,a1,f,i)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Fruchtiges Hähnchencurry",
+                "price": "2,80 €  / 3,80 €",
+                "allergies": "(G,g,2)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Nudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Griechischer Auflauf",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(V,a,a1,c,f,g,i,2)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Bohnengemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Sesam-Karotten",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,k)"
+            },
+            {
+                "title": "Basmatireis",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Penne Rigate",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Bohnensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Karottensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,2)"
+            },
+            {
+                "title": "Bunter Rohkost Mix mit Italian-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Chinakohlsalat in Sahne",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,i,j,2)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            },
+            {
+                "title": "Schokopudding",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1)"
+            },
+            {
+                "title": "Quark mit Früchten",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Mango Mousse mit Schokoraspel und Blaubeeren",
+                "price": "1,40 €  / 1,80 €",
+                "allergies": "(c,f,g)"
+            }
+        ]
+    },
+    "Di, 21.03.": {
+        "Aktion": [
+            {
+                "title": "Pfefferpotthast Westfälisch (R) (RUB) Salzkartoffeln",
+                "price": "3,50 €  / 4,70 €",
+                "allergies": "(R,a,a1,a3,f,3)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Schweinerückensteak mit Pfefferkruste, Apfelsauce Wokgemüse [Paprika, Karotte, Champignon] Kräuterreis Banane",
+                "price": "4,43 €  / 5,90 €",
+                "allergies": "(S,a,a1,a3,f,g,i,k,3)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Schweinerückensteak mit Pfefferkruste und Apfelsauce",
+                "price": "1,90 €  / 2,90 €",
+                "allergies": "(S,a,a1,a3,f,g,i,3)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabologne, Nudeln, Schnittlauch, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Mediterrane Gemüse-Nudelpfanne",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Wokgemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,i,k)"
+            },
+            {
+                "title": "Kräuterreis",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Zucchinisalat mit  Paprika, Lollo Rosso und Schnittlauch",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,i,j)"
+            },
+            {
+                "title": "Tomatensalat mit roten Zwiebeln, Kräutern und Balsamico",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Eisbergsalat mit Joghurt-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,3)"
+            },
+            {
+                "title": "Kappessalat mit Paprikawürfeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,f,g,i,j,m)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            },
+            {
+                "title": "Quark mit Früchten",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Grießpudding mit Erdbeerpüree",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            }
+        ]
+    },
+    "Mi, 22.03.": {
+        "Aktion": [
+            {
+                "title": "Kibbeling mit Remouladensauce, Kräuterreis und Salat",
+                "price": "4,10 €  / 5,10 €",
+                "allergies": "(F,a,a1,a3,c,d,f,g,i,j)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Kartoffel-Spinatgratin mit Knoblauchsauce  Karotten-Apfelsalat",
+                "price": "3,50 €  / 4,90 €",
+                "allergies": "(V,f,g,2,3)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Veganes Gulasch",
+                "price": "2,20 €  / 3,20 €",
+                "allergies": "(VG,a,a1,a3,f,i,2,3)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Hähnchen-Cordon Bleu mit Pilzrahmsauce",
+                "price": "2,50 €  / 3,50 €",
+                "allergies": "(G,a,a1,a3,f,g,i,2,3,8)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Kartoffel-Spinatgratin mit Knoblauchsauce",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(V,f,g)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Blumenkohl",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Lauchgemüse in Rahm",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,a3,g)"
+            },
+            {
+                "title": "Kartoffelwedges",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            },
+            {
+                "title": "Schupfnudeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,c)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Gemischter Salat \"Rheinland\" mit American-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,j)"
+            },
+            {
+                "title": "Cole Slaw",
+                "price": "0,80 €  / 0,80 €",
+                "allergies": "(V,c,g,j)"
+            },
+            {
+                "title": "Paprikasalat \"Olymp\"",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            },
+            {
+                "title": "Schokopudding",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            }
+        ]
+    },
+    "Do, 23.03.": {
+        "Aktion": [
+            {
+                "title": "Bratwurst mit Bratenjus, Prinzessbohnen und Kartoffelgratin",
+                "price": "4,10 €  / 5,10 €",
+                "allergies": "(S,a,a1,a3,f,g,i,j,8)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Cevapcici mit Tomatenreis und Tsatziki Kidneybohnen-Mais-Salat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(R,a,a1,c,g,j)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Gebackener Camembert mit Preiselbeeren",
+                "price": "1,80 €  / 2,80 €",
+                "allergies": "(V,a,a1,g)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Cevapcici vom Rind mit Tzatziki",
+                "price": "3,00 €  / 4,00 €",
+                "allergies": "(R,a,a1,c,g,j)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Gemüselasagne",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(V,a,a1,g,i)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Balkan-Gemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,i)"
+            },
+            {
+                "title": "Gegrilltes Zuchinigemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Tomaten-Vollkornreis",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Zartweizen",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Karottensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,2)"
+            },
+            {
+                "title": "Blattsalat \"Pacific\" mit Joghurt-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,3)"
+            },
+            {
+                "title": "Salat \"Helgoländer Mix\" mit Italia-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Pflaumenschnitte mit Butterstreusel",
+                "price": "1,40 €  / 1,40 €",
+                "allergies": "(V,a,a1,c,g)"
+            },
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            }
+        ]
+    },
+    "Fr, 24.03.": {
+        "Aktion": [
+            {
+                "title": "Lamacun mit Hähnchenfleisch, Salat, Tsatziki und Reis",
+                "price": "5,50 €  / 6,50 €",
+                "allergies": "(G,H,a,a1,c,f,g,i)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Seelachsfilet mit Zitronen-Kapernsauce Brokkoli Salzkartoffeln",
+                "price": "5,00 €  / 6,40 €",
+                "allergies": "(F,a,a1,d,f,3)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Gebackene Tofuschnitte mit Mango-Chutney",
+                "price": "1,80 €  / 2,80 €",
+                "allergies": "(VG,a,a1,a3,f,2,3)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Seelachsfilet mit Zitronen-Kapernsauce",
+                "price": "3,00 €  / 4,00 €",
+                "allergies": "(F,a,a1,d,f)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Cannelloni mit Spinat und Gouda",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(V,a,a1,c,g,i)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Brokkoli",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Spitzkohl",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Salzkartoffeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,3)"
+            },
+            {
+                "title": "Kräuter-Bulgur",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1,2)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Bunter Rohkost Mix mit Italian-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Krautsalat mit Paprikawürfeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,j)"
+            },
+            {
+                "title": "Grüne Bohnen in Sahnedressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,f,g,j)"
+            },
+            {
+                "title": "Gemischter Salat mit French-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a3,c,g,i,j,2)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            },
+            {
+                "title": "Schokopudding",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            }
+        ]
+    },
+    "Mo, 27.03.": {
+        "Aktion": [
+            {
+                "title": "Schweinemedaillons mit Bratensauce, Kartoffelgratin und Rotkohl",
+                "price": "4,50 €  / 5,50 €",
+                "allergies": "(S,a,a1,a3,f,g,i,3,9)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Putensteak mit Tomaten-Basilikumsauce Paprikagemüse Bunte Spiralnudeln",
+                "price": "4,30 €  / 5,70 €",
+                "allergies": "(G,a,a1,i)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Veganes Züricher Geschnetzeltes",
+                "price": "1,80 €  / 2,80 €",
+                "allergies": "(VG,a,a1,a3,f,i,3)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Putensteak mit Tomaten-Basilikumsauce",
+                "price": "2,30 €  / 3,30 €",
+                "allergies": "(G,i)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Nudelpfanne Quattro Formaggio",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(V,a,a1,g)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Paprikagemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Blumenkohl mit Bröselbutter",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,a,a1,a3,f,g)"
+            },
+            {
+                "title": "Bunte Spiralnudeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            },
+            {
+                "title": "Erbsen-Vollkornreis",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Bochumer-Italia-Salatmix mit Italia-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Bohnensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Eisberg mit Paprikastreifen und French-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a3,c,g,i,j,2)"
+            },
+            {
+                "title": "Chinakohlsalat in Sahne",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,i,j,2)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            },
+            {
+                "title": "Schokopudding",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            }
+        ]
+    },
+    "Di, 28.03.": {
+        "Aktion": [
+            {
+                "title": "Hähnchenschnitzel \"Hawaii\" mit Pommes und Salat",
+                "price": "4,90 €  / 5,90 €",
+                "allergies": "(G,a,a1,g)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Gnocchipfanne mit getrockneten Tomaten und Ruccola Quark mit Erdbeeren",
+                "price": "3,30 €  / 4,60 €",
+                "allergies": "(V,a,a1,g,3)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Frischkäse-Kartoffeltasche mit Kräutersauce",
+                "price": "1,80 €  / 2,80 €",
+                "allergies": "(V,f,g)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Köfte mit Paprikarahmsauce",
+                "price": "2,50 €  / 3,50 €",
+                "allergies": "(R,a,a1,c,f,g,2,9)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Gnocchipfanne mit getrockneten Tomaten und Ruccola",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(VG,a,a1,3)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Maisgemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Erbsen und Karotten",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Djuvec-Reis",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,2,9)"
+            },
+            {
+                "title": "Basilikum-Gnocchi",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Zucchinisalat mit  Paprika, Lollo Rosso und Schnittlauch",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,i,j)"
+            },
+            {
+                "title": "Tomatensalat mit roten Zwiebeln, Kräutern und Balsamico",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Karottensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,j)"
+            },
+            {
+                "title": "Blattsalat \"Barcelona\" mit Joghurt-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,3)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Apfelkuchen gedeckt",
+                "price": "1,80 €  / 2,00 €",
+                "allergies": "(V,a,a1,c)"
+            },
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            }
+        ]
+    },
+    "Mi, 29.03.": {
+        "Aktion": [
+            {
+                "title": "Gebratener Wildlachs mit Gemüse und bunten Spiralnudeln",
+                "price": "5,50 €  / 6,50 €",
+                "allergies": "(F,a,a1,d,f,g)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Gebratener Wildlachs mit Gemüse und bunten Spiralnudeln",
+                "price": "5,50 €  / 6,50 €",
+                "allergies": "(F,a,a1,d,f,g)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Karotten-Röstling mit Schnittlauchsauce",
+                "price": "2,00 €  / 3,00 €",
+                "allergies": "(V,a,a1,a4,c,f)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Schweineschnitzel mit Sambal-Hollandaise",
+                "price": "2,50 €  / 3,50 €",
+                "allergies": "(S,a,a1,c,g,i,2)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Bulgur-Hackfleischpfanne mit Minz-Joghurt",
+                "price": "2,50 €  / 3,50 €",
+                "allergies": "(R,a,a1,g,i)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Kaisergemüse",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Brokkoli",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Vollkornnudeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            },
+            {
+                "title": "Kräuter Zartweizen",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Gemischter Salat \"Rheinland\" mit American-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,j)"
+            },
+            {
+                "title": "Cole Slaw",
+                "price": "0,80 €  / 0,80 €",
+                "allergies": "(V,c,g,j)"
+            },
+            {
+                "title": "Paprikasalat \"Olymp\"",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Blattsalat mit Honig-Senf-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,j,l,3,5)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            },
+            {
+                "title": "Schokopudding",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            }
+        ]
+    },
+    "Do, 30.03.": {
+        "Aktion": [
+            {
+                "title": "Gegrilltes Hüftsteak,Zitronen Salsa,Süßkartoffelpüree,Pak Choi",
+                "price": "4,20 €  / 5,20 €",
+                "allergies": "(R,g)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Rindergulasch Salzkartoffeln Bohnensalat Birne",
+                "price": "5,24 €  / 6,60 €",
+                "allergies": "(R,a,a1,a3,f,i,3)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Blumenkohl-Käsebratling mit heller Sauce",
+                "price": "1,80 €  / 2,80 €",
+                "allergies": "(V,a,a1,c,f,g,i)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Rindergulasch",
+                "price": "2,90 €  / 3,90 €",
+                "allergies": "(R,a,a1,a3,f,i)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Chili sin Carne mit Reis",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(VG,a,a1,f)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Speckbohnen",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(S,2)"
+            },
+            {
+                "title": "Karottenmix",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Salzkartoffeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,3)"
+            },
+            {
+                "title": "Spätzle",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,c)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Karottensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,2)"
+            },
+            {
+                "title": "Blattsalat \"Pacific\" mit Joghurt-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,g,3)"
+            },
+            {
+                "title": "Salat \"Helgoländer Mix\" mit Italia-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Pflaumenschnitte mit Butterstreusel",
+                "price": "1,40 €  / 1,40 €",
+                "allergies": "(V,a,a1,c,g)"
+            },
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            }
+        ]
+    },
+    "Fr, 31.03.": {
+        "Aktion": [
+            {
+                "title": "Lammgulasch,Paprika Bohnengemüse, Couscous",
+                "price": "4,20 €  / 5,20 €",
+                "allergies": "(L,a,a1,i)"
+            }
+        ],
+        "STUDY&FIT": [
+            {
+                "title": "Spargelcurry  Linsen-Vollkornreis Gemischter Salat mit Kräuterdressing",
+                "price": "4,30 €  / 5,60 €",
+                "allergies": "(VG,a,a1,f,i,k)"
+            }
+        ],
+        "Vegetarische Menükomponente": [
+            {
+                "title": "Riesenrösti mit Spargel und Sauce Hollandaise",
+                "price": "2,20 €  / 3,20 €",
+                "allergies": "(V,c,g,i)"
+            }
+        ],
+        "Komponentenessen": [
+            {
+                "title": "Backfisch mit Remouladensauce",
+                "price": "3,00 €  / 4,00 €",
+                "allergies": "(F,a,a1,a3,c,d,g,i,j)"
+            }
+        ],
+        "Döner": [
+            {
+                "title": "Halal Hähnchendöner mit Pommes oder Reis und Salat",
+                "price": "4,70 €  / 6,60 €",
+                "allergies": "(G,H,c,g,i,j,2)"
+            }
+        ],
+        "Falafel Teller": [
+            {
+                "title": "Falafel Teller mit Pommes oder Reis und Salat",
+                "price": "3,40 €  / 4,50 €",
+                "allergies": "(VG,a,a1,f,i,j,1,2)"
+            }
+        ],
+        "Nudeltheke": [
+            {
+                "title": "Gouda gerieben Schnittlauch, Tortellini mit Spinat und Käse gefüllt, Rinderbolognese, Käse Sahnesauce, Champignonrahmsauce, Sojabolognese, Vollkorn Spiralen, Farfalle, Bunte Spiralnudeln, Baguette",
+                "price": "2,60 €  / 3,90 €",
+                "allergies": "(R,a,a1,a2,a3,f,g,i,1,3)"
+            }
+        ],
+        "Kartoffeltheke": [
+            {
+                "title": "mit Pommes Frites, Kartoffelecken, Baked Potatoe, Sour Cream, Bratwurst, Curryketchupsauce",
+                "price": "1,30 €  / 1,60 €",
+                "allergies": "(S,a,a1,g,i,j,1,2,8,9,12)"
+            }
+        ],
+        "Sprinter": [
+            {
+                "title": "Spargelcurry mit Linsen-Vollkornreis",
+                "price": "2,50 €  / 3,70 €",
+                "allergies": "(VG,a,a1,f,i,k)"
+            }
+        ],
+        "Beilage": [
+            {
+                "title": "Blattspinat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Blumenkohl, Romanesco und Brokkoli",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG)"
+            },
+            {
+                "title": "Kartoffelpüree",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Makkaroni",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,a,a1)"
+            }
+        ],
+        "Salatbeilage": [
+            {
+                "title": "Krautsalat mit Paprikawürfeln",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,j)"
+            },
+            {
+                "title": "Gurkensalat",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(VG,j)"
+            },
+            {
+                "title": "Grüne Bohnen in Sahnedressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,c,f,g,j)"
+            },
+            {
+                "title": "Gemischter Salat mit French-Dressing",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a3,c,g,i,j,2)"
+            }
+        ],
+        "Dessert": [
+            {
+                "title": "Quark",
+                "price": "0,80 €  / 0,90 €",
+                "allergies": "(V,g)"
+            },
+            {
+                "title": "Karamellpudding mit Vanillesauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,f,g,1)"
+            },
+            {
+                "title": "Schokopudding",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1)"
+            },
+            {
+                "title": "Vanillepudding mit Erdbeersauce",
+                "price": "1,00 €  / 1,20 €",
+                "allergies": "(V,a,a1,g,1,2)"
+            }
+        ]
+    }
+}

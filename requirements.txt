@@ -1,0 +1,8 @@
+requests~=2.28.1
+uvicorn~=0.18.3
+fastapi~=0.85.0
+pymongo~=4.2.0
+beautifulsoup4~=4.11.1
+fake-useragent
+fastapi-utils
+schedule~=1.1.0
