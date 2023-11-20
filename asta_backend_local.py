@@ -5,7 +5,6 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from timeit import default_timer as timer
 
-
 async def get_data(document_name):
     with open(f'data/{document_name}', "r", encoding='utf-8') as f:
         data = json.load(f)
@@ -20,7 +19,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"]
 )
-
 
 @app.get("/get_meal/{mensa}")
 async def get_meal_plan(mensa: int):

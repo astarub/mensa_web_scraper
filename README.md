@@ -2,6 +2,15 @@
 
 This is the offical web scraper for the akafoe.de website, written in Python and hosted on a server in a datacenter on campus.
 
+You can access the API via https://api-app.asta-bochum.de/get_meal/[Restaurant]
+
+Available restaurants:
+- 1 : RUB Mensa
+- 2 : Rote Bete
+- 3 : Q-West
+
+Example request for the RUB Mensa: GET https://api-app.asta-bochum.de/get_meal/1
+
 ---
 
 ## Contribution
