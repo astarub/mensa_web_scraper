@@ -1,26 +1,9 @@
 import json
 import traceback
 import uvicorn
-from fastapi import Depends, FastAPI, HTTPException, status
-from fastapi.security import OAuth2PasswordBearer
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from timeit import default_timer as timer
-
-
-api_keys = [
-    "[YOUR-API-KEY]"
-]
-
-oauth2_scheme = OAuth2PasswordBearer(
-    tokenUrl="token")  # use token authentication
-
-
-async def api_key_auth(api_key: str = Depends(oauth2_scheme)):
-    if api_key not in api_keys:
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Forbidden"
-        )
 
 
 async def get_data(document_name):
@@ -28,10 +11,7 @@ async def get_data(document_name):
         data = json.load(f)
         return data
 
-
-
 app = FastAPI()
-
 
 app.add_middleware(
     CORSMiddleware,
@@ -42,7 +22,7 @@ app.add_middleware(
 )
 
 
-@app.get("/get_meal/{mensa}", dependencies=[Depends(api_key_auth)])
+@app.get("/get_meal/{mensa}")
 async def get_meal_plan(mensa: int):
     result = "something went wrong please contact ASAP"
     start = timer()
